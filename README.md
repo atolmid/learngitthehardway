@@ -212,8 +212,50 @@ my change to the readme
 my change to the readme
 another change to the README
 my change to the README
-<<<<<<< HEAD
-=======
 another change to the README
->>>>>>> 97746c8f3d4e5bf807ca868422df95b31425f371
+another change to the README
+my change to README
+another change to the README
+my change to the README.md
+my change to the README ***
+another change to the README
+new change +1
+changes of mine
+my change to the README
+another change to the README
+MY CHANGE TO README.md
+Mohamed shaker was here
+my change to the README SWU
+another change to the README
+William Weston's change to the README
+a temp change on tmpbranch
+S's change to the README
+another change to the README
+another change to the README
+mychange to the README
+another change to the README
+'my change to the README' 
+'another change to the README' 
+my change to the README
+would anyone like to READMEmy change to the README
+another chnage to the README by Atul
+my change to the README
+another change to the README
+my change to the README
+kartheek change to the README
+my change to readme
+my generic change to the README :-)
+my change to the README
+make another change to README
+make third change to README
+hello from contributor
+
+my change to the README
+another change to the README
+my change to the README
+my change to the README
+another change to the README
+'my change to the README' 
+'another change to the README' 
+my change to the README
 another change to the readme
