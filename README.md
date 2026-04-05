@@ -212,3 +212,7 @@ my change to the readme
 my change to the readme
 another change to the README
 my change to the README
+<<<<<<< HEAD
+=======
+another change to the README
+>>>>>>> 97746c8f3d4e5bf807ca868422df95b31425f371
